@@ -1,0 +1,22 @@
+.mydiv{
+  text-align: center;
+  color: green;
+}
+
+.table{
+  text-align: center;
+  border:green;
+  border: 7px double;
+  margin-left: auto;
+  margin-right: auto;
+  
+    
+}
+
+.header
+{
+  text-align: center;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+}
